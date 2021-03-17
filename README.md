@@ -1,2 +1,2 @@
-# paw
-Programowanie aplikacji webowych
+# Programowanie aplikacji webowych
+Laboratorium
